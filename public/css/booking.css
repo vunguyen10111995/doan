@@ -1,0 +1,43 @@
+.mainContentSection {
+    margin-top: 50px;
+}
+
+.title-booking {
+    color: #c50000 !important;
+    font-size: 28px !important;
+}
+
+.form-control {
+    background-color: white !important;
+}
+
+.note {
+    color: red;
+    font-weight: bold;
+}
+
+.guest-note {
+    font-weight: bold;
+}
+
+.customer-title {
+    padding: 12px 15px 12px 15px;
+    background: #c50000;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.guest-customer {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+#total-number {
+    background-color: #f1f1f1 !important;
+}
+
+.active-book {
+    background-color: #34a736 !important;
+    color: white !important;
+}

@@ -1,0 +1,41 @@
+{
+  "name": "framgia_travel_02",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Van Quy <vanquynguyen1604@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vanquynguyen/framgia_travel_02",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery-ui": "^1.12.1",
+    "jquery": "2.1.1",
+    "bootstrap-datepicker": "^1.7.1",
+    "counter-up": "^1.0.0",
+    "toastr": "^2.1.3",
+    "jquery.gritter": "^1.7.4",
+    "jquery-slimscroll": "slimscroll#^1.3.8",
+    "Flot": "flot#^0.8.3",
+    "chart.js": "^2.7.1",
+    "jquery.sparkline": "^2.1.2",
+    "jquery.sparkline.bower": "^2.1.2",
+    "PACE": "pace#^1.0.2",
+    "peity": "^3.2.1",
+    "flot.tooltip": "^0.9.0",
+    "flot-spline": "^0.8.2",
+    "metisMenu": "^2.7.1",
+    "select2": "^4.0.5",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "bootstrap-select": "^1.13.1",
+    "chartist": "^0.11.0"
+  }
+}

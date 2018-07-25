@@ -1,0 +1,1 @@
+<button type="button" class="btn btn-xs btn-border" userId="{{ $follow->following_id }}" id="unfollow"><span>{{ trans('site.unfollow') }}</span></button>

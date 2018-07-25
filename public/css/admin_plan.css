@@ -1,0 +1,10 @@
+.content-request {
+    margin-top: 25px;
+    padding-bottom: 20px;
+    color: black;
+}
+
+.select2-selection__choice {
+    background-color: #34bf49 !important;
+    color: black !important;
+}

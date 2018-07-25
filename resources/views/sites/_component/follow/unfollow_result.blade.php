@@ -1,0 +1,1 @@
+<button type="button" class="btn btn-xs btn-border" userId="{{ $user->id }}" id="follow"><span>{{ trans('site.follow') }}</span></button>

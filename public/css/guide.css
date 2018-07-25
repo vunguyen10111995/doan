@@ -1,0 +1,66 @@
+#show-guide {
+    width: 60%;
+    height: auto !important;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 300px;
+}
+
+#content {
+    height: 1300px;
+    background-color: #f2f2f2;
+}
+
+.content-guide {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img-guide {
+    width: 130px;
+    height: 140px;
+}
+
+.guide-list {
+    margin-top: 30px;
+}
+
+.level {
+    background-color: #39ea9a;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.full_name {
+    font-weight: bold;
+}
+
+.email-guide {
+    text-align: center;
+}
+
+.view_profile {
+    background-color: #1891ce;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.view_profile a {
+    color: white;
+}
+
+.view_profile a:hover {
+    color: orange;
+}
